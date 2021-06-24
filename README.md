@@ -1,6 +1,4 @@
-### Hi there 👋
 
-<!--
 ### Hi there 👋, my name is Stanko
 #### I am a Junior Android Developer
 ![I am a Junior Android Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
@@ -14,5 +12,3 @@ Skills: Java | Kotlin | Firebase | C# | MS/My SQL
 🏃‍♂️running
 🏋️‍♂️gym
 
-
--->
