@@ -7,7 +7,7 @@ Enthusiastic graduate student eager to learn new things and gather experience in
 Skills: Java | Kotlin | Firebase | C# | MS/My SQL
 
 - Free time:
-🚴MTB & road cycling   return
-🏃‍♂️running   return
-🏋️‍♂️gym   return
+🚴MTB & road cycling
+🏃‍♂️running
+🏋️‍♂️gym
 
