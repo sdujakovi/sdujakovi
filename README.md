@@ -11,3 +11,4 @@ Skills: Kotlin | Firebase | REST API-s | MVVM | Declarative UI
 🏃‍♂️running
 🏋️‍♂️gym
 
+Check me out on Linkedin: https://www.linkedin.com/in/stane44/
